@@ -48,7 +48,7 @@ docling>=2.31.0                # Document parser for Office/HTML (alternative to
 # ============================================
 # LlamaIndex
 # ============================================
-llama-index>=0.14.12
+llama-index>=0.14.24
 
 # ============================================
 # Academic and research tools
